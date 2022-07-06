@@ -16,6 +16,3 @@ function calcular()
     else{
         document.getElementById('display').innerHTML = 'Indefinido'
     }
-}
-function theme(){
-}
